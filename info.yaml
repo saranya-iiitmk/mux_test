@@ -59,7 +59,6 @@ pinout:
   ua[3]: "vout_4"
   ua[4]: "vout_3"
   ua[5]: "vout_2"
-  ua[6]: "s1"
-  ua[7]: "s0"
+  
 # Do not change!
 yaml_version: 6
