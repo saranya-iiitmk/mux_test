@@ -1,0 +1,51 @@
+* SPICE3 file created from mux_inv_demux_buff_comp.ext - technology: sky130A
+
+X0 mux_inv_demux_buff_0/a_n61_649# mux_inv_demux_buff_0/a_n234_n391# comparator_1/VSUBS comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=0.29 ps=2.58 w=1 l=0.15
+X1 mux_inv_demux_buff_0/a_n61_649# mux_inv_demux_buff_0/a_n234_n391# comparator_1/vdd comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0.29 pd=2.58 as=0.29 ps=2.58 w=1 l=0.15
+X2 mux_inv_demux_buff_0/li_575_680# a_1540_1500# mux_inv_demux_buff_0/li_290_1229# comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=0.580025 ps=5.165 w=1 l=0.15
+X3 mux_inv_demux_buff_0/li_575_680# a_1540_1500# mux_inv_demux_buff_0/inverter_1/li_n66_1116# comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0.58 pd=5.16 as=0.29 ps=2.58 w=1 l=0.15
+X4 mux_inv_demux_buff_0/a_55_766# mux_inv_demux_buff_0/a_n236_1433# comparator_1/VSUBS comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=2.32 ps=20.64 w=1 l=0.15
+X5 mux_inv_demux_buff_0/a_55_766# mux_inv_demux_buff_0/a_n236_1433# comparator_1/vdd comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0.29 pd=2.58 as=2.90005 ps=25.81 w=1 l=0.15
+X6 mux_inv_demux_buff_0/li_652_339# a_1610_729# mux_inv_demux_buff_0/inverter_3/li_n78_778# comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0.580025 pd=5.165 as=0.29 ps=2.58 w=1 l=0.15
+X7 mux_inv_demux_buff_0/li_652_339# a_1610_729# mux_inv_demux_buff_0/li_575_680# comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0.580025 pd=5.165 as=0 ps=0 w=1 l=0.15
+X8 mux_inv_demux_buff_0/a_1736_754# mux_inv_demux_buff_0/inverter_4/a_46_896# comparator_1/VSUBS comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=0 ps=0 w=1 l=0.15
+X9 mux_inv_demux_buff_0/a_1736_754# mux_inv_demux_buff_0/inverter_4/a_46_896# comparator_1/vdd comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0.29 pd=2.58 as=0 ps=0 w=1 l=0.15
+X10 mux_inv_demux_buff_0/a_1402_1498# mux_inv_demux_buff_0/a_1736_754# comparator_1/VSUBS comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=0 ps=0 w=1 l=0.15
+X11 mux_inv_demux_buff_0/a_1402_1498# mux_inv_demux_buff_0/a_1736_754# comparator_1/vdd comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0.29 pd=2.58 as=0 ps=0 w=1 l=0.15
+X12 mux_inv_demux_buff_0/a_1248_637# mux_inv_demux_buff_0/inverter_7/a_46_896# comparator_1/VSUBS comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=0 ps=0 w=1 l=0.15
+X13 mux_inv_demux_buff_0/a_1248_637# mux_inv_demux_buff_0/inverter_7/a_46_896# comparator_1/vdd comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0.29 pd=2.58 as=0 ps=0 w=1 l=0.15
+X14 mux_inv_demux_buff_0/a_1584_296# mux_inv_demux_buff_0/a_1248_637# comparator_1/VSUBS comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=0 ps=0 w=1 l=0.15
+X15 mux_inv_demux_buff_0/a_1584_296# mux_inv_demux_buff_0/a_1248_637# comparator_1/vdd comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0.29 pd=2.58 as=0 ps=0 w=1 l=0.15
+X16 mux_inv_demux_buff_0/li_652_339# mux_inv_demux_buff_0/a_1736_754# mux_inv_demux_buff_0/mux1_4_1/li_136_620# comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0 pd=0 as=0.580025 ps=5.165 w=1 l=0.15
+X17 mux_inv_demux_buff_0/li_652_339# mux_inv_demux_buff_0/a_1402_1498# mux_inv_demux_buff_0/mux1_4_1/li_136_620# comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=0.580025 ps=5.165 w=1 l=0.15
+X18 mux_inv_demux_buff_0/li_652_339# mux_inv_demux_buff_0/a_1402_1498# mux_inv_demux_buff_0/mux1_4_1/li_378_664# comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0 pd=0 as=0.580025 ps=5.165 w=1 l=0.15
+X19 mux_inv_demux_buff_0/li_652_339# mux_inv_demux_buff_0/a_1736_754# mux_inv_demux_buff_0/mux1_4_1/li_378_664# comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=0.580025 ps=5.165 w=1 l=0.15
+X20 mux_inv_demux_buff_0/mux1_4_1/li_136_620# mux_inv_demux_buff_0/a_1248_637# mux_inv_demux_buff_0/mux1_4_1/mux1_2_0/mux_unitcell_0/li_n680_416# comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
+X21 mux_inv_demux_buff_0/mux1_4_1/li_136_620# mux_inv_demux_buff_0/a_1584_296# mux_inv_demux_buff_0/mux1_4_1/mux1_2_0/mux_unitcell_0/li_n680_416# comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
+X22 mux_inv_demux_buff_0/mux1_4_1/li_136_620# mux_inv_demux_buff_0/a_1584_296# mux_inv_demux_buff_0/mux1_4_1/mux1_2_0/mux_unitcell_1/li_n680_416# comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
+X23 mux_inv_demux_buff_0/mux1_4_1/li_136_620# mux_inv_demux_buff_0/a_1248_637# mux_inv_demux_buff_0/mux1_4_1/mux1_2_0/mux_unitcell_1/li_n680_416# comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
+X24 mux_inv_demux_buff_0/mux1_4_1/li_378_664# mux_inv_demux_buff_0/a_1248_637# mux_inv_demux_buff_0/mux1_4_1/mux1_2_1/mux_unitcell_0/li_n680_416# comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
+X25 mux_inv_demux_buff_0/mux1_4_1/li_378_664# mux_inv_demux_buff_0/a_1584_296# mux_inv_demux_buff_0/mux1_4_1/mux1_2_1/mux_unitcell_0/li_n680_416# comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
+X26 mux_inv_demux_buff_0/mux1_4_1/li_378_664# mux_inv_demux_buff_0/a_1584_296# mux_inv_demux_buff_0/mux1_4_1/mux1_2_1/mux_unitcell_1/li_n680_416# comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
+X27 mux_inv_demux_buff_0/mux1_4_1/li_378_664# mux_inv_demux_buff_0/a_1248_637# mux_inv_demux_buff_0/mux1_4_1/mux1_2_1/mux_unitcell_1/li_n680_416# comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
+X28 mux_inv_demux_buff_0/li_290_1229# mux_inv_demux_buff_0/a_55_766# mux_inv_demux_buff_0/mux1_4_0/li_136_620# comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0 pd=0 as=0.580025 ps=5.165 w=1 l=0.15
+X29 mux_inv_demux_buff_0/li_290_1229# mux_inv_demux_buff_0/a_n236_1433# mux_inv_demux_buff_0/mux1_4_0/li_136_620# comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0.290025 pd=2.585 as=0.580025 ps=5.165 w=1 l=0.15
+X30 mux_inv_demux_buff_0/li_290_1229# mux_inv_demux_buff_0/a_n236_1433# mux_inv_demux_buff_0/mux1_4_0/li_378_664# comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0 pd=0 as=0.580025 ps=5.165 w=1 l=0.15
+X31 mux_inv_demux_buff_0/li_290_1229# mux_inv_demux_buff_0/a_55_766# mux_inv_demux_buff_0/mux1_4_0/li_378_664# comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=0.580025 ps=5.165 w=1 l=0.15
+X32 mux_inv_demux_buff_0/mux1_4_0/li_136_620# mux_inv_demux_buff_0/a_n61_649# mux_inv_demux_buff_0/mux1_4_0/mux1_2_0/mux_unitcell_0/li_n680_416# comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
+X33 mux_inv_demux_buff_0/mux1_4_0/li_136_620# mux_inv_demux_buff_0/a_n234_n391# mux_inv_demux_buff_0/mux1_4_0/mux1_2_0/mux_unitcell_0/li_n680_416# comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
+X34 mux_inv_demux_buff_0/mux1_4_0/li_136_620# mux_inv_demux_buff_0/a_n234_n391# mux_inv_demux_buff_0/mux1_4_0/mux1_2_0/mux_unitcell_1/li_n680_416# comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
+X35 mux_inv_demux_buff_0/mux1_4_0/li_136_620# mux_inv_demux_buff_0/a_n61_649# mux_inv_demux_buff_0/mux1_4_0/mux1_2_0/mux_unitcell_1/li_n680_416# comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
+X36 mux_inv_demux_buff_0/mux1_4_0/li_378_664# mux_inv_demux_buff_0/a_n61_649# mux_inv_demux_buff_0/mux1_4_0/mux1_2_1/mux_unitcell_0/li_n680_416# comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
+X37 mux_inv_demux_buff_0/mux1_4_0/li_378_664# mux_inv_demux_buff_0/a_n234_n391# mux_inv_demux_buff_0/mux1_4_0/mux1_2_1/mux_unitcell_0/li_n680_416# comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
+X38 mux_inv_demux_buff_0/mux1_4_0/li_378_664# mux_inv_demux_buff_0/a_n234_n391# mux_inv_demux_buff_0/mux1_4_0/mux1_2_1/mux_unitcell_1/li_n680_416# comparator_1/VSUBS sky130_fd_pr__nfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
+X39 mux_inv_demux_buff_0/mux1_4_0/li_378_664# mux_inv_demux_buff_0/a_n61_649# mux_inv_demux_buff_0/mux1_4_0/mux1_2_1/mux_unitcell_1/li_n680_416# comparator_1/vdd sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
+C0 comparator_1/v1 comparator_1/vss 6.444748f
+C1 comparator_1/vss comparator_0/v1 6.474829f
+Xcomparator_0 comparator_0/in1 comparator_0/vref comparator_1/vdd comparator
+Xcomparator_1 comparator_1/in1 comparator_1/vref comparator_1/vdd comparator
+C2 comparator_1/v1 comparator_1/VSUBS 15.817583f
+C3 a_1610_729# comparator_1/VSUBS 13.792406f **FLOATING
+C4 comparator_0/v1 comparator_1/VSUBS 15.817583f
+C5 a_1540_1500# comparator_1/VSUBS 12.999359f **FLOATING
+C6 comparator_1/vdd comparator_1/VSUBS 22.935865f

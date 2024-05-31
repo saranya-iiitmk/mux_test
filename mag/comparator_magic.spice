@@ -1,0 +1,32 @@
+* SPICE3 file created from comparator.ext - technology: sky130A
+
+.subckt comparator in1 vref vdd
+X0 a_6576_n2973# m1_7574_n5940# vss vss sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=0.29 ps=2.58 w=1 l=0.15
+X1 a_6492_n2439# vref m1_6418_n6096# vss sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=0.87 ps=7.74 w=1 l=0.15
+X2 a_5888_n2443# in1 m1_6418_n6096# vss sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=0 ps=0 w=1 l=0.15
+X3 VSUBS m1_7574_n5940# VSUBS sky130_fd_pr__res_xhigh_po_0p35 l=0.66
+X4 m1_7574_n5940# m1_7574_n5940# vss vss sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=1.16 ps=10.32 w=1 l=0.15
+X5 m1_6418_n6096# m1_7574_n5940# vss vss sky130_fd_pr__nfet_01v8 ad=0 pd=0 as=0 ps=0 w=1 l=0.15
+X6 a_5888_n2443# a_5888_n2443# vdd vdd sky130_fd_pr__pfet_01v8 ad=0.29 pd=2.58 as=0.29 ps=2.58 w=1 l=0.15
+X7 m1_6640_n2769# a_6576_n2973# vdd vdd sky130_fd_pr__pfet_01v8 ad=0.29 pd=2.58 as=0.580025 ps=5.165 w=1 l=0.15
+X8 a_6492_n2439# a_5888_n2443# vdd vdd sky130_fd_pr__pfet_01v8 ad=0.29 pd=2.58 as=0 ps=0 w=1 l=0.15
+X9 m1_6640_n2769# XC8/m3_n386_n3120# sky130_fd_pr__cap_mim_m3_1 l=2 w=2
+X10 m1_6640_n2769# XC8/m3_n386_n3120# sky130_fd_pr__cap_mim_m3_1 l=2 w=2
+X11 m1_6640_n2769# XC8/m3_n386_n3120# sky130_fd_pr__cap_mim_m3_1 l=2 w=2
+X12 m1_6640_n2769# XC8/m3_n386_n3120# sky130_fd_pr__cap_mim_m3_1 l=2 w=2
+X13 m1_6640_n2769# XC8/m3_n386_n3120# sky130_fd_pr__cap_mim_m3_1 l=2 w=2
+X14 m1_6640_n2769# XC8/m3_n386_n3120# sky130_fd_pr__cap_mim_m3_1 l=2 w=2
+X15 m1_6640_n2769# XC8/m3_n386_n3120# sky130_fd_pr__cap_mim_m3_1 l=2 w=2
+X16 m1_6640_n2769# XC8/m3_n386_n3120# sky130_fd_pr__cap_mim_m3_1 l=2 w=2
+X17 m1_6640_n2769# XC8/m3_n386_n3120# sky130_fd_pr__cap_mim_m3_1 l=2 w=2
+X18 a_6576_n2973# a_6492_n2439# sky130_fd_pr__cap_mim_m3_1 l=2 w=2
+X19 a_6576_n2973# a_6492_n2439# vdd vdd sky130_fd_pr__pfet_01v8 ad=0.29 pd=2.58 as=0 ps=0 w=1 l=0.15
+X20 vdd vdd VSUBS VSUBS sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=0.29 ps=2.58 w=1 l=0.15
+X21 m1_6640_n2769# a_6576_n2973# vss vss sky130_fd_pr__nfet_01v8 ad=0.29 pd=2.58 as=0 ps=0 w=1 l=0.15
+C0 m1_6640_n2769# XC8/m3_n386_n3120# 6.49807f
+C1 v1 vss 6.434408f
+C2 v1 VSUBS 15.727915f
+C3 m1_6640_n2769# VSUBS 4.349884f **FLOATING
+C4 vdd VSUBS 4.171546f
+C5 XC8/m3_n386_n3120# VSUBS 4.93485f **FLOATING
+.ends

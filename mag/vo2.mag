@@ -1,0 +1,15 @@
+magic
+tech sky130A
+magscale 1 2
+timestamp 1717175364
+<< locali >>
+rect 350 -1858 424 611
+use sky130_fd_pr__res_xhigh_po_0p35_6R3NZW  R1
+timestamp 1717077931
+transform 1 0 387 0 1 -2286
+box -35 -482 35 482
+use sky130_fd_pr__res_xhigh_po_0p35_4QZ5AR  R2
+timestamp 1717174014
+transform 1 0 386 0 1 1579
+box -37 -1032 37 1032
+<< end >>
