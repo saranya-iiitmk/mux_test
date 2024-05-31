@@ -1,7 +1,7 @@
 magic
-tech sky130B
+tech sky130A
 magscale 1 2
-timestamp 1699418989
+timestamp 1717180972
 << xpolycontact >>
 rect -35 100 35 532
 rect -35 -532 35 -100
@@ -19,8 +19,6 @@ rect -25 -117 25 -105
 rect -25 -514 -19 -117
 rect 19 -514 25 -117
 rect -25 -526 25 -514
-<< res0p35 >>
-rect -37 -102 37 102
 << properties >>
 string gencell sky130_fd_pr__res_xhigh_po_0p35
 string library sky130

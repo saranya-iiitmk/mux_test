@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1717137789
+timestamp 1717180972
 << error_s >>
 rect 190 1272 248 1472
 rect 278 1272 336 1472
@@ -28,15 +28,15 @@ rect 378 664 476 698
 rect 136 620 170 664
 rect 442 620 476 664
 use mux1_2  mux1_2_0
-timestamp 1717137789
+timestamp 1717180972
 transform 1 0 0 0 1 -98
 box 0 98 306 776
 use mux1_2  mux1_2_1
-timestamp 1717137789
+timestamp 1717180972
 transform 1 0 306 0 1 -98
 box 0 98 306 776
 use mux1_2  mux1_2_2
-timestamp 1717137789
+timestamp 1717180972
 transform 1 0 154 0 -1 1596
 box 0 98 306 776
 << end >>

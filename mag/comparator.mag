@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1717175364
+timestamp 1717180972
 << dnwell >>
 rect 5296 -6592 8535 -5514
 << nwell >>
@@ -373,67 +373,67 @@ rect 6645 -4436 6646 -4366
 rect 7433 -4378 7654 -4339
 rect 6574 -4437 6646 -4436
 use bodynmos  bodynmos_1
-timestamp 1717086850
+timestamp 1717180972
 transform 1 0 4760 0 1 -5863
 box -24 -24 62 52
 use bodypmos  bodypmos_0
-timestamp 1717077931
+timestamp 1717180972
 transform 1 0 6022 0 1 -2712
 box -76 -78 118 110
 use sky130_fd_pr__cap_mim_m3_1_FJK8MD  sky130_fd_pr__cap_mim_m3_1_FJK8MD_0
-timestamp 1717077931
+timestamp 1717180972
 transform 0 1 6856 -1 0 -3592
 box -386 -240 386 240
 use sky130_fd_pr__nfet_01v8_24PS5X  sky130_fd_pr__nfet_01v8_24PS5X_0
-timestamp 1717086850
+timestamp 1717180972
 transform 1 0 8010 0 1 -6069
 box -211 -310 211 310
 use sky130_fd_pr__nfet_01v8_24PS5X  sky130_fd_pr__nfet_01v8_24PS5X_1
-timestamp 1717086850
+timestamp 1717180972
 transform -1 0 7605 0 1 -6068
 box -211 -310 211 310
 use sky130_fd_pr__nfet_01v8_24PS5X  sky130_fd_pr__nfet_01v8_24PS5X_2
-timestamp 1717086850
+timestamp 1717180972
 transform 1 0 7201 0 1 -6068
 box -211 -310 211 310
 use sky130_fd_pr__nfet_01v8_24PS5X  sky130_fd_pr__nfet_01v8_24PS5X_3
-timestamp 1717086850
+timestamp 1717180972
 transform -1 0 6795 0 1 -6070
 box -211 -310 211 310
 use sky130_fd_pr__nfet_01v8_24PS5X  sky130_fd_pr__nfet_01v8_24PS5X_4
-timestamp 1717086850
+timestamp 1717180972
 transform 1 0 6389 0 1 -6070
 box -211 -310 211 310
 use sky130_fd_pr__nfet_01v8_24PS5X  sky130_fd_pr__nfet_01v8_24PS5X_5
-timestamp 1717086850
+timestamp 1717180972
 transform -1 0 5983 0 1 -6070
 box -211 -310 211 310
 use sky130_fd_pr__pfet_01v8_5U3WHE  sky130_fd_pr__pfet_01v8_5U3WHE_0
-timestamp 1717077931
+timestamp 1717180972
 transform 1 0 6307 0 1 -2694
 box -109 -162 109 162
 use sky130_fd_pr__res_xhigh_po_0p35_6R3NZW  sky130_fd_pr__res_xhigh_po_0p35_6R3NZW_0
-timestamp 1717077931
+timestamp 1717180972
 transform 1 0 4915 0 1 -6573
 box -35 -482 35 482
 use sky130_fd_pr__cap_mim_m3_1_F2GAMD  XC8
-timestamp 1717077931
+timestamp 1717180972
 transform 1 0 9115 0 1 -5014
 box -386 -3240 386 3240
 use sky130_fd_pr__pfet_01v8_5U3WHE  XM29
-timestamp 1717077931
+timestamp 1717180972
 transform 1 0 6609 0 1 -2694
 box -109 -162 109 162
 use sky130_fd_pr__pfet_01v8_5U3WHE  XM39
-timestamp 1717077931
+timestamp 1717180972
 transform -1 0 6219 0 1 -2694
 box -109 -162 109 162
 use sky130_fd_pr__pfet_01v8_5U3WHE  XM42
-timestamp 1717077931
+timestamp 1717180972
 transform -1 0 6521 0 1 -2694
 box -109 -162 109 162
 use sky130_fd_pr__nfet_01v8_WYB6A9  XM43
-timestamp 1717077931
+timestamp 1717180972
 transform 1 0 4958 0 1 -5823
 box -73 -126 73 126
 << labels >>

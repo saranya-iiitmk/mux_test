@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1717137789
+timestamp 1717180972
 << nwell >>
 rect -508 998 -330 1064
 rect -138 1016 158 1064
@@ -227,43 +227,43 @@ rect 180 -391 206 -357
 rect 241 -391 262 -357
 rect 180 -424 262 -391
 use inverter  inverter_0
-timestamp 1717137789
+timestamp 1717180972
 transform 1 0 -280 0 1 -580
 box -78 644 170 1266
 use inverter  inverter_1
-timestamp 1717137789
+timestamp 1717180972
 transform -1 0 698 0 -1 2004
 box -78 644 170 1266
 use inverter  inverter_2
-timestamp 1717137789
+timestamp 1717180972
 transform 1 0 -282 0 -1 2086
 box -78 644 170 1266
 use inverter  inverter_3
-timestamp 1717137789
+timestamp 1717180972
 transform -1 0 774 0 1 -588
 box -78 644 170 1266
 use inverter  inverter_4
-timestamp 1717137789
+timestamp 1717180972
 transform -1 0 2022 0 -1 2004
 box -78 644 170 1266
 use inverter  inverter_5
-timestamp 1717137789
+timestamp 1717180972
 transform 1 0 1690 0 -1 2004
 box -78 644 170 1266
 use inverter  inverter_6
-timestamp 1717137789
+timestamp 1717180972
 transform 1 0 1759 0 1 -600
 box -78 644 170 1266
 use inverter  inverter_7
-timestamp 1717137789
+timestamp 1717180972
 transform -1 0 2091 0 1 -600
 box -78 644 170 1266
 use mux1_4  mux1_4_0
-timestamp 1717137789
+timestamp 1717180972
 transform 1 0 0 0 1 0
 box 0 0 612 1498
 use mux1_4  mux1_4_1
-timestamp 1717137789
+timestamp 1717180972
 transform 1 0 1066 0 1 0
 box 0 0 612 1498
 << end >>

@@ -1,6 +1,6 @@
 magic
 tech sky130A
-timestamp 1717137789
+timestamp 1717180972
 << error_s >>
 rect 0 226 153 388
 rect 18 62 47 162
@@ -11,11 +11,11 @@ rect 47 212 62 247
 rect 47 197 106 212
 rect 91 175 106 197
 use mux_unitcell  mux_unitcell_0
-timestamp 1717137789
+timestamp 1717180972
 transform 1 0 364 0 1 -45
 box -364 94 -255 433
 use mux_unitcell  mux_unitcell_1
-timestamp 1717137789
+timestamp 1717180972
 transform -1 0 -211 0 1 -45
 box -364 94 -255 433
 << end >>
