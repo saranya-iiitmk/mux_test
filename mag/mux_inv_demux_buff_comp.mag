@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1717182678
+timestamp 1717183646
 << nwell >>
 rect -1290 -13139 -1256 -13076
 rect -910 -13207 -741 -12810
@@ -310,11 +310,11 @@ rect -2110 -14238 -2004 -14086
 rect 78 -14238 182 -2443
 rect -2110 -14342 182 -14238
 use comparator  comparator_0
-timestamp 1717182678
+timestamp 1717183646
 transform 1 0 -10006 0 1 6500
 box 4736 -8254 9501 -1774
 use comparator  comparator_1
-timestamp 1717182678
+timestamp 1717183646
 transform 1 0 -10050 0 1 -1094
 box 4736 -8254 9501 -1774
 use mux_inv_demux_buff  mux_inv_demux_buff_1
