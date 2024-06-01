@@ -2,9 +2,9 @@ VERSION 5.7 ;
   NOWIREEXTENSIONATPIN ON ;
   DIVIDERCHAR "/" ;
   BUSBITCHARS "[]" ;
-MACRO final
+MACRO tt_um_mixed_signal_pulse_gen
   CLASS BLOCK ;
-  FOREIGN final ;
+  FOREIGN tt_um_mixed_signal_pulse_gen ;
   ORIGIN 0.000 0.000 ;
   SIZE 161.000 BY 225.760 ;
   PIN clk
@@ -30522,6 +30522,6 @@ MACRO final
         RECT 90.820 39.075 152.480 40.675 ;
         RECT 90.820 35.775 152.480 37.375 ;
   END
-END final
+END tt_um_mixed_signal_pulse_gen
 END LIBRARY
 
