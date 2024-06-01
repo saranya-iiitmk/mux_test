@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1717234046
+timestamp 1717237536
 << nwell >>
 rect 5462 13550 5580 13580
 rect 5462 13490 5648 13550
@@ -1663,7 +1663,7 @@ timestamp 1717183646
 transform 1 0 7640 0 1 26527
 box -6162 -20493 1060 5158
 use pwm_generator  pwm_generator_0
-timestamp 1717234046
+timestamp 1717237536
 transform 1 0 17108 0 1 3644
 box 0 0 14457 16601
 use sky130_fd_pr__res_xhigh_po_0p35_NM7GYR  sky130_fd_pr__res_xhigh_po_0p35_NM7GYR_0
@@ -1671,7 +1671,7 @@ timestamp 1717180972
 transform 1 0 1239 0 1 3856
 box -35 -532 35 532
 use Top  Top_0
-timestamp 1717234046
+timestamp 1717237536
 transform 1 0 13146 0 1 27462
 box 0 0 11954 14098
 use vo2  vo2_0
