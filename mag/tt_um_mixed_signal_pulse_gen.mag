@@ -1,7 +1,7 @@
 magic
 tech sky130A
 magscale 1 2
-timestamp 1717223502
+timestamp 1717230764
 << nwell >>
 rect 5462 13550 5580 13580
 rect 5462 13490 5648 13550
@@ -1787,6 +1787,8 @@ flabel metal4 200 1000 500 44152 1 FreeSans 2 0 0 0 VPWR
 port 51 nsew power bidirectional
 flabel metal4 s 13618 0 13798 200 0 FreeSans 960 0 0 0 ua[4]
 port 7 nsew signal bidirectional
+rlabel metal4 9800 1000 10100 44152 1 VGND
+port 52 n default bidirectional
 << properties >>
 string FIXED_BBOX 0 0 32200 45152
 << end >>
