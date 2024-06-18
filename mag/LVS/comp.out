@@ -1,0 +1,17 @@
+
+Subcircuit summary:
+Circuit 1: mux_inv_demux_buff_comp.spice   |Circuit 2: mux_inv_demux_buff_comp_antenna 
+-------------------------------------------|-------------------------------------------
+sky130_fd_pr__nfet_01v8 (20)               |sky130_fd_pr__nfet_01v8 (20)               
+sky130_fd_pr__pfet_01v8 (20)               |sky130_fd_pr__pfet_01v8 (20)               
+c (2)                                      |c (2)                                      
+comparator (2)                             |comparator (2)                             
+**FLOATING (4)                             |**FLOATING (4)                             
+Number of devices: 48                      |Number of devices: 48                      
+Number of nets: 37                         |Number of nets: 37                         
+---------------------------------------------------------------------------------------
+Netlists match uniquely.
+Circuits match correctly.
+Cells have no pins;  pin matching not needed.
+Device classes mux_inv_demux_buff_comp.spice and mux_inv_demux_buff_comp_antenna.spice are equivalent.
+Circuits match uniquely.

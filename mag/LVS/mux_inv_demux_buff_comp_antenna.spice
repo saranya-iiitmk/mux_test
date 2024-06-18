@@ -40,8 +40,8 @@ X36 mux_inv_demux_buff_1/mux1_4_0/li_378_664# mux_inv_demux_buff_1/a_n61_649# mu
 X37 mux_inv_demux_buff_1/mux1_4_0/li_378_664# mux_inv_demux_buff_1/a_n234_n391# mux_inv_demux_buff_1/mux1_4_0/mux1_2_1/mux_unitcell_0/li_n680_416# VDD sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
 X38 mux_inv_demux_buff_1/mux1_4_0/li_378_664# mux_inv_demux_buff_1/a_n234_n391# mux_inv_demux_buff_1/mux1_4_0/mux1_2_1/mux_unitcell_1/li_n680_416# GND sky130_fd_pr__nfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
 X39 mux_inv_demux_buff_1/mux1_4_0/li_378_664# mux_inv_demux_buff_1/a_n61_649# mux_inv_demux_buff_1/mux1_4_0/mux1_2_1/mux_unitcell_1/li_n680_416# VDD sky130_fd_pr__pfet_01v8 ad=0 pd=0 as=0.29 ps=2.58 w=1 l=0.15
-C0 comparator_1/v1 comparator_1/vss 6.444747f
-C1 comparator_0/v1 comparator_1/vss 6.45962f
+C0 comparator_0/v1 comparator_1/vss 6.45962f
+C1 comparator_1/vss comparator_1/v1 6.444747f
 Xcomparator_0 comparator_0/in1 comparator_0/vref VDD comparator
 Xcomparator_1 comparator_1/in1 comparator_1/vref VDD comparator
 C2 comparator_1/v1 GND 15.817583f
